@@ -1,1 +1,9 @@
-This is a simple littl scripts that uses jQuery to read a target for headings, then generate a Table of contents
+This is a simple piece of javascript that reads an html target (body/news class/etc) for html heading tags
+and then generates a html table of contents.
+
+Requires jQuery
+
+Features Include:
+-Display only headings that are linkable
+-Specify any valid jQuery target
+-Pick start and ending level (ex:h1 to h3)
